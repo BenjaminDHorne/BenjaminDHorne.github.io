@@ -38,6 +38,9 @@ nav ul li a {
 nav ul li a:hover {
 	background: #2e2c2d;
 }
+nav ul li a:visited {
+	background: #FFF;
+}
 nav ul li {
     display: inline-block;
     margin: 10px;
